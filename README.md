@@ -57,7 +57,3 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou corre
 ## Licença
 
 Este código é fornecido sob a [Licença MIT](LICENSE), o que significa que você pode usá-lo livremente em seus próprios projetos, mas sem garantias de qualquer tipo.
-
----
-
-**Nota:** Este readme foi criado com base no código fornecido. Certifique-se de fornecer informações adicionais, se necessário, para explicar detalhes específicos do uso ou configuração da estratégia.
